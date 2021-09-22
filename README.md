@@ -3,13 +3,13 @@
 Você pode me encontrar em:
 <div align="center">
 
+[![Site](https://img.shields.io/badge/-Site-black?style=flat-square&labelColor=black&logo=site-black&logoColor=white&link=http://www.denivaus.com.br)](http://www.denivaus.com.br)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denivaus-carvalho-a7802923)](https://www.linkedin.com/in/denivaus-carvalho-a7802923)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCcJqwzKYF-NvH-1JvrSHPrQ)](https://www.youtube.com/channel/UCcJqwzKYF-NvH-1JvrSHPrQ)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/denivaus)](https://twitter.com/denivaus)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://instagram.com/denivaus)](https://instagram.com/denivaus)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Denivaus)](https://github.com/Denivaus)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&labelColor=ff0000&logo=gmail&logoColor=white&link=mailto:denivauscarvalho@gmail.com)](mailto:denivauscarvalho@gmail.com)
-[![Site](https://img.shields.io/badge/-Site-black?style=flat-square&labelColor=ff0000&logo=site-black&logoColor=white&link=http://www.denivaus.com.br)](http://www.denivaus.com.br)
 
 </div>
 
