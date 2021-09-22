@@ -23,3 +23,7 @@
   <a href="https://www.linkedin.com/in/denivaus-carvalho-a7802923" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+<br>
+<br>
+ ![Snake animation](https://github.com/Denivaus/Denivaus/blob/main/denivaus/blob/output/github-contribution-grid-snake.svg)
