@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Denivaus">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=denivaus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denivaus&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Denivaus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denivaus&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 
 ##
@@ -27,6 +27,8 @@
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/Denivaus/Denivaus/e3e72a98fd1727462991f21b17f06f0792429a44/denivaus/blob/output/github-contribution-grid-snake.svg) 
+<img src="https://komarev.com/ghpvc/?username=Denivaus&color=blue" alt="Denivaus" /> 
+
+![Snake animation](https://github.com/Denivaus/denivaus/blob/output/github-contribution-grid-snake.svg)
 
 </div>
