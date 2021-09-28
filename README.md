@@ -1,9 +1,15 @@
 ## Olá eu sou o Denívaus Carvalho e este é o meu conjunto de repositórios de códigos.
 
 Você pode me encontrar em:
+
+<div align="center">
+  
+[![Site](https://img.shields.io/badge/-Meu_Site:_www.denivaus.com.br-blue?style=flat-square&labelColor=yellow&logo=site-black&logoColor=yellow&link=http://www.denivaus.com.br)](http://www.denivaus.com.br)
+
+</div>
+
 <div align="center">
 
-[![Site](https://img.shields.io/badge/-Site-black?style=flat-square&labelColor=black&logo=site-black&logoColor=white&link=http://www.denivaus.com.br)](http://www.denivaus.com.br)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denivaus-carvalho-a7802923)](https://www.linkedin.com/in/denivaus-carvalho-a7802923)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCcJqwzKYF-NvH-1JvrSHPrQ)](https://www.youtube.com/channel/UCcJqwzKYF-NvH-1JvrSHPrQ)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/denivaus)](https://twitter.com/denivaus)
