@@ -22,15 +22,15 @@ Você pode me encontrar em:
 
 Conhecimentos:
 
-<div style="display: inline_block"  align="center"><br>
-  <a href="#"><img align="center" alt="Denivaus-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"></a>
-  <a href="#"><img align="center" alt="Denivaus-Oracle" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></a>
-  <a href="#"><img align="center" alt="Denivaus-MongoDB" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"></a>
-  <a href="#"><img align="center" alt="Denivaus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg"></a>
-  <a href="#"><img align="center" alt="Denivaus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="#"><img align="center" alt="Denivaus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="#"><img align="center" alt="Denivaus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="#"><img align="center" alt="Denivaus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+<div style="display: inline_block; background-color: #ABBAEA"  align="center"><br>
+  <a href="#" alt="PostgreSQL"><img align="center" alt="Denivaus-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"></a>
+  <a href="#" alt="Oracle"><img align="center" alt="Denivaus-Oracle" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></a>
+  <a href="#" alt="DB2"><img align="center" alt="Denivaus-DB2" height="40" width="80" src="https://iconape.com/wp-content/files/so/352455/svg/352455.svg"></a>
+  <a href="#" alt="MongoDB"><img align="center" alt="Denivaus-MongoDB" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"></a>
+  <a href="#" alt="SSH"><img align="center" alt="Denivaus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg"></a>
+  <a href="#" alt="HTML"><img align="center" alt="Denivaus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="#" alt="CSS"><img align="center" alt="Denivaus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="#" alt="Python"><img align="center" alt="Denivaus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 </div>
 
 ---
