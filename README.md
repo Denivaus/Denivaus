@@ -1,4 +1,4 @@
-## Olá eu sou **Denívaus Carvalho**
+## 💬&nbsp;&nbsp;&nbsp;&nbsp;Olá eu sou **Denívaus Carvalho**
 
 <div align="left">
   
@@ -6,11 +6,13 @@
 
 </div>
 
-Lido com programação/desenvolvimento desde 1993. Atuante na área de dados desde 2004 iniciou atuação com banco de dados com o Oracle, traz uma enorme paixão por ciência de dados e o escopo de lidar com informação. Hoje, com experiência em diferentes plataformas como Oracle, PostgreSQL, MongoDB, DB2, entre outros, venho transformando o gosto de lidar com os dados em experiência de vida.
+Lido com programação/desenvolvimento desde 1993. Atuante na área de dados desde 2004 iniciou atuação com banco de dados com o Oracle e nele ficou até meados de 2013, onde posteriormente foi pro IBM DB2 e está com ele até hoje. Traz uma enorme paixão por ciência de dados e o escopo de lidar com informação. Hoje, com experiência em diferentes plataformas como Oracle, PostgreSQL, MongoDB, SQLServer, DB2, entre outros, venho transformando o gosto de lidar com os dados em experiência de vida.
 
-<br ><br ><br ><br ><br >
+Código é tudo nas áreas de dados, então venho trazer em repositórios aqui no GIT conhecimento e experiência que venho adquirindo ao longo do tempo.
 
-Você pode me encontrar em:
+<br ><br >
+
+🔗&nbsp;&nbsp;&nbsp;&nbsp;Você pode me encontrar em:
 
 <div align="center">
   
@@ -29,9 +31,7 @@ Você pode me encontrar em:
 
 </div>
 
-
-Conhecimentos em:
-
+📕&nbsp;&nbsp;&nbsp;&nbsp;Conhecimentos em:
 <div style="display: inline_block; background-color: #ABBAEA"  align="center"><br>
   <a href="#" alt="PostgreSQL"><img align="center" alt="Denivaus-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"></a>
   <a href="#" alt="Oracle"><img align="center" alt="Denivaus-Oracle" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></a>
@@ -45,7 +45,7 @@ Conhecimentos em:
 
 ---
 
-Números aqui no GIT:
+📊&nbsp;&nbsp;&nbsp;&nbsp;Números aqui no GIT:
 <div align="center">
   <a href="https://github.com/Denivaus">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Denivaus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
