@@ -1,4 +1,4 @@
-## Olá eu sou o Denívaus Carvalho e este é o meu conjunto de repositórios de códigos.
+## Olá eu sou **Denívaus Carvalho**
 
 <div align="left">
   
@@ -6,7 +6,9 @@
 
 </div>
 
+Lido com programação/desenvolvimento desde 1993. Atuante na área de dados desde 2004 iniciou atuação com banco de dados com o Oracle, traz uma enorme paixão por ciência de dados e o escopo de lidar com informação. Hoje, com experiência em diferentes plataformas como Oracle, PostgreSQL, MongoDB, DB2, entre outros, venho transformando o gosto de lidar com os dados em experiência de vida.
 
+<br ><br ><br ><br ><br >
 
 Você pode me encontrar em:
 
@@ -28,7 +30,7 @@ Você pode me encontrar em:
 </div>
 
 
-Conhecimentos:
+Conhecimentos em:
 
 <div style="display: inline_block; background-color: #ABBAEA"  align="center"><br>
   <a href="#" alt="PostgreSQL"><img align="center" alt="Denivaus-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"></a>
@@ -43,7 +45,7 @@ Conhecimentos:
 
 ---
 
-No GIT:
+Números aqui no GIT:
 <div align="center">
   <a href="https://github.com/Denivaus">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Denivaus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
