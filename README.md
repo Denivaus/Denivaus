@@ -1,6 +1,8 @@
 ## Olá eu sou o Denívaus Carvalho e este é o meu conjunto de repositórios de códigos.
 
-<div align="center">
+<div align="left">
+  
+<a href="#" alt="Oracle"><img align="left" alt="Denivaus-Oracle" height="240" width="240" src="https://github.com/Denivaus/Denivaus/blob/main/imgDenivausDesenho.png?raw=true"></a>
 
 </div>
 
