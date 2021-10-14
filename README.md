@@ -6,11 +6,14 @@
 
 </div>
 
-Lido com programação/desenvolvimento desde 1993. Atuante na área de dados desde 2004 iniciou atuação com banco de dados com o Oracle e nele ficou até meados de 2013, onde posteriormente foi pro IBM DB2 e está com ele até hoje. Traz uma enorme paixão por ciência de dados e o escopo de lidar com informação. Hoje, com experiência em diferentes plataformas como Oracle, PostgreSQL, MongoDB, SQLServer, DB2, entre outros, venho transformando o gosto de lidar com os dados em experiência de vida.
+- Atualmente estou trabalhando com na área de dados
+- Traz uma enorme paixão por ciência de dados e o escopo de lidar com informação. Hoje venho transformando o gosto de lidar com os dados em experiência de vida.
+- Eu procuro colaborar em **projetos de ciência de dados e IA**
+- Me pergunte sobre **tecnologia, banco de dados, ciência de dados, IA, carreira e etc - ficarei feliz em ajudar :)**
+- Habilidades: me comunico bem, gosto de trabalhar em equipe, me sinto confiante para construir produtos e servicos de software
+- Código é tudo nas áreas de dados, então venho trazer em repositórios aqui no GIT conhecimento e experiência que venho adquirindo ao longo do tempo.
 
-Código é tudo nas áreas de dados, então venho trazer em repositórios aqui no GIT conhecimento e experiência que venho adquirindo ao longo do tempo.
-
-<br ><br >
+---
 
 🔗&nbsp;&nbsp;&nbsp;&nbsp;Você pode me encontrar em:
 
@@ -30,6 +33,8 @@ Código é tudo nas áreas de dados, então venho trazer em repositórios aqui n
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&labelColor=ff0000&logo=gmail&logoColor=white&link=mailto:denivauscarvalho@gmail.com)](mailto:denivauscarvalho@gmail.com)
 
 </div>
+
+---
 
 📕&nbsp;&nbsp;&nbsp;&nbsp;Conhecimentos em:
 <div style="display: inline_block; background-color: #ABBAEA"  align="center"><br>
