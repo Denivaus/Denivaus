@@ -6,12 +6,12 @@
 
 </div>
 
-- Atualmente estou trabalhando com na área de dados
-- Traz uma enorme paixão por ciência de dados e o escopo de lidar com informação. Hoje venho transformando o gosto de lidar com os dados em experiência de vida.
-- Eu procuro colaborar em **projetos de ciência de dados e IA**
-- Me pergunte sobre **tecnologia, banco de dados, ciência de dados, IA, carreira e etc - ficarei feliz em ajudar :)**
-- Habilidades: me comunico bem, gosto de trabalhar em equipe, me sinto confiante para construir produtos e servicos de software
-- Código é tudo nas áreas de dados, então venho trazer em repositórios aqui no GIT conhecimento e experiência que venho adquirindo ao longo do tempo.
+- Atualmente estou trabalhando com na **área de dados**
+- Traz uma enorme paixão por **ciência de dado**s e o escopo de lidar com **informação**. Hoje venho transformando o gosto de lidar com os dados em **experiência de vida**.
+- Eu procuro colaborar em **projetos de ciência de dados** e **IA**
+- Me pergunte sobre **tecnologia**, **banco de dados**, **ciência de dados**, **IA**, carreira e etc - ficarei feliz em ajudar :)
+- Habilidades: me **comunico** bem, gosto de **trabalhar em equipe**, me sinto **confiante** para construir **produtos e servicos de software**
+- **Código** é tudo nas áreas de dados, então venho trazer em repositórios aqui no GIT **conhecimento** e **experiência** que venho adquirindo ao longo do tempo.
 
 ---
 
