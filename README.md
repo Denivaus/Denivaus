@@ -56,11 +56,3 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Denivaus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <!--<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denivaus&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
-
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=Denivaus&color=blue" alt="Denivaus" /> 
-
-![Snake animation](https://github.com/Denivaus/denivaus/blob/output/github-contribution-grid-snake.svg)
-
-</div>
